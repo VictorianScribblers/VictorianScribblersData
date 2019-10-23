@@ -1,4 +1,4 @@
-# Victorian Scribblers Data
+# <em>Victorian Scribblers</em> Data
 This repository houses data collected and used in the making of the <em>Victorian Scribblers</em> podcast.
 
 <em>Victorian Scribblers</em> is a biography and literature podcast about the lives and work of lesser-known Victorian writers. Researched, produced, and co-hosted by Dr. Courtney Floyd (UVa) and Eleanor Dumbill (Loughborough University), the podcast is envisioned as a public humanities project. In the podcast, we unpack the human contexts of the Victorian period for a mixed audience of scholars and enthusiasts, highlighting nineteenth-century writers whom time and the Western canon have forgotten. Now in its third season, <em>Victorian Scribblers</em> has covered the life and work of Wilkie Collins, Mary Elizabeth Braddon, the Trollope family, and Mary Shelley. We have also produced a miniseries titled <em>Victorian Adaptations / Adapting the Victorians</em> which featured interdisciplinary conversations with experts in Art History, Medieval Literature and Culture, and rare books. 
